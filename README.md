@@ -1,4 +1,4 @@
-### ◇───── LORDTECH VPS MANAGER ──────◇
+### ◇──── LORDTECH VPS MANAGER ─────◇
 
 ㅤ
 <p align="left">
