@@ -1,9 +1,9 @@
-## ◇────── LORD TECH VPS MANAGER ───────◇
+## ◇────── LORDTECH VPS MANAGER ───────◇
 
 ㅤ
 <p align="left">
   <a href="" rel="noopener">
- <img width=550px height=550px src="https://i.imgur.com/1qZW7n9.jpeg" alt="logo"></a>
+ <img width=550px height=500px src="https://i.imgur.com/1qZW7n9.jpeg" alt="logo"></a>
 </p>
 
 ##
