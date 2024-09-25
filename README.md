@@ -1,4 +1,4 @@
-### ◇────── LORDTECH VPS MANAGER ───────◇
+### ◇───── LORDTECH VPS MANAGER ──────◇
 
 ㅤ
 <p align="left">
@@ -21,6 +21,6 @@ ___Follow Us!___
 
  <p>    
 <div class="div2">
- <span><a href="https://https://t.me/LordTechVpsLoginCode_bot"><img src="https://i.imgur.com/JjFp8Ng.png" alt=""width="50"height="50"/></a></span>
+ <span><a href="https://t.me/LordTechVpsLoginCode_bot"><img src="https://i.imgur.com/JjFp8Ng.png" alt=""width="50"height="50"/></a></span>
  </div>
  </p>
