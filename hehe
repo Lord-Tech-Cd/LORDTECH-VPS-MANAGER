@@ -149,7 +149,7 @@ _1nk=$(echo '/3×u3#s×87r/83×l2×4×i0b×'|sed -e 's/[^a-z/]//ig')
 
 # Welcome message
 echo -e "\033[1;31m\033[0m"
-tput setaf 7 ; tput setab 4 ; tput bold ; printf '%40s%s%-12s\n' "◇─────────ㅤ❤️‍🔥WELCOME TO LORD TECH VPS MANAGER❤️‍🔥ㅤ─────────◇" ; tput sgr0
+tput setaf 7 ; tput setab 4 ; tput bold ; printf '%40s%s%-12s\n' "◇─────────ㅤ🌚WELCOME TO LORD TECH VPS MANAGER🌚ㅤ─────────◇" ; tput sgr0
 echo ""
 echo -e "\033[1;33mㅤTHIS SCRIPT CONTAINS THE FOLLOWING!!\033[0m"
 echo ""
@@ -158,7 +158,7 @@ echo ""
 echo -e "\033[1;33m◇  \033[1;32mNETWORK, SYSTEM AND USER MANAGEMENT.\033[0m"
 echo -e "\033[1;33m◇  \033[1;32mEASY INTERFACE FOR BEGINNERS.\033[0m"
 echo ""
-echo -e "\033[1;31m◇──────────────ㅤ❤️‍🔥 LORD TECH VPS MANAGER ❤️‍🔥ㅤ──────────────◇\033[0m"
+echo -e "\033[1;31m◇──────────────ㅤ🌚 LORD TECH VPS MANAGER 🌚ㅤ──────────────◇\033[0m"
 echo ""
 
 # Prompt to continue
